@@ -245,9 +245,6 @@ function create_config( )
     "settings",
     "spam",
     "version",
-    "filter",
-    "linkpv",
-    "wel",
     },
   enabled_lang = {
     "arabic_lang",
