@@ -14,7 +14,7 @@
 do
 
 function run(msg, matches)
-  return 'gto-bot V3 Supergroups\nAn advanced Administration bot based on yagop/telegram-bot\n\nDevelopers: @oralius @mmaahhssaa1\nSupport: @skneos @iicc1 @Serx666\nChannels: @gto-botEN @oraliusES\n\nCheckout: https://github.com/siilaas/gto-bot\nGNU GPL v2 license.'
+  return 'gto-bot V3 Supergroups\nAn advanced Administration bot based on yagop/telegram-bot\n\nDevelopers: @oralius @mmaahhssaa1\nSupport: @oralius @helper_gp @helper_gp\nChannels: @gto-botEN @oraliusES\n\nCheckout: https://github.com/siilaas/gto-bot\nGNU GPL v2 license.'
 end
 
 return {
